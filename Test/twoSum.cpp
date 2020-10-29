@@ -14,7 +14,7 @@ using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int start,end;
+        int start,end,temp;
         start = 0;
         end = nums.size()-1;
         pair <int, int> t[50000];
@@ -39,14 +39,3 @@ public:
         return indix;
     }
 };
-
-int main()
-{
-    Solution Sol;
-    vector <int> index;
-    vector <int> input = [2,7,11,15];
-    index = Sol.twoSum(input, 9);
-
-    cout << index;
-    return 0;
-}
