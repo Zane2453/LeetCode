@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2F4E8B01254FCF380089EEFA /* RemoveElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B00254FCF380089EEFA /* RemoveElement.cpp */; };
+		2F4E8B04254FCF960089EEFA /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B03254FCF960089EEFA /* PalindromeNumber.cpp */; };
 		2FD7AFA4232DEA35009C7F7F /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2FD7AFA3232DEA35009C7F7F /* twoSum.cpp */; };
 		2FE13BA5254A859B00DB6BC0 /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2FE13BA3254A859B00DB6BC0 /* ReverseInteger.cpp */; };
 /* End PBXBuildFile section */
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		2F4E8B00254FCF380089EEFA /* RemoveElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RemoveElement.cpp; sourceTree = "<group>"; };
+		2F4E8B03254FCF960089EEFA /* PalindromeNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
 		2FD7AFA0232DEA34009C7F7F /* Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FD7AFA3232DEA35009C7F7F /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
 		2FE13BA3254A859B00DB6BC0 /* ReverseInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				2FD7AFA3232DEA35009C7F7F /* twoSum.cpp */,
 				2FE13BA3254A859B00DB6BC0 /* ReverseInteger.cpp */,
 				2F4E8B00254FCF380089EEFA /* RemoveElement.cpp */,
+				2F4E8B03254FCF960089EEFA /* PalindromeNumber.cpp */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FD7AFA4232DEA35009C7F7F /* twoSum.cpp in Sources */,
+				2F4E8B04254FCF960089EEFA /* PalindromeNumber.cpp in Sources */,
 				2FE13BA5254A859B00DB6BC0 /* ReverseInteger.cpp in Sources */,
 				2F4E8B01254FCF380089EEFA /* RemoveElement.cpp in Sources */,
 			);
