@@ -12,6 +12,7 @@
 		2F4E8B07254FD0D40089EEFA /* Roman2Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B06254FD0D40089EEFA /* Roman2Integer.cpp */; };
 		2F4E8B0A254FD1640089EEFA /* LongestCommonPrefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B09254FD1640089EEFA /* LongestCommonPrefix.cpp */; };
 		2F4E8B0D254FD1D30089EEFA /* ValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B0C254FD1D30089EEFA /* ValidParentheses.cpp */; };
+		2F4E8B10254FD3A50089EEFA /* SearchInsertPosition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E8B0F254FD3A50089EEFA /* SearchInsertPosition.cpp */; };
 		2FD7AFA4232DEA35009C7F7F /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2FD7AFA3232DEA35009C7F7F /* twoSum.cpp */; };
 		2FE13BA5254A859B00DB6BC0 /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2FE13BA3254A859B00DB6BC0 /* ReverseInteger.cpp */; };
 /* End PBXBuildFile section */
@@ -34,6 +35,7 @@
 		2F4E8B06254FD0D40089EEFA /* Roman2Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Roman2Integer.cpp; sourceTree = "<group>"; };
 		2F4E8B09254FD1640089EEFA /* LongestCommonPrefix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LongestCommonPrefix.cpp; sourceTree = "<group>"; };
 		2F4E8B0C254FD1D30089EEFA /* ValidParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ValidParentheses.cpp; sourceTree = "<group>"; };
+		2F4E8B0F254FD3A50089EEFA /* SearchInsertPosition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SearchInsertPosition.cpp; sourceTree = "<group>"; };
 		2FD7AFA0232DEA34009C7F7F /* Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FD7AFA3232DEA35009C7F7F /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
 		2FE13BA3254A859B00DB6BC0 /* ReverseInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				2F4E8B06254FD0D40089EEFA /* Roman2Integer.cpp */,
 				2F4E8B09254FD1640089EEFA /* LongestCommonPrefix.cpp */,
 				2F4E8B0C254FD1D30089EEFA /* ValidParentheses.cpp */,
+				2F4E8B0F254FD3A50089EEFA /* SearchInsertPosition.cpp */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FD7AFA4232DEA35009C7F7F /* twoSum.cpp in Sources */,
+				2F4E8B10254FD3A50089EEFA /* SearchInsertPosition.cpp in Sources */,
 				2F4E8B07254FD0D40089EEFA /* Roman2Integer.cpp in Sources */,
 				2F4E8B04254FCF960089EEFA /* PalindromeNumber.cpp in Sources */,
 				2FE13BA5254A859B00DB6BC0 /* ReverseInteger.cpp in Sources */,
